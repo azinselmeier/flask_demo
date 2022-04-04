@@ -1,0 +1,9 @@
+.DS_Store
+.VSCode
+.env
+instance/*
+!instance/.gitignore
+.webassets-cache
+__pyache__/
+*.py[cod]
+*$py.class
