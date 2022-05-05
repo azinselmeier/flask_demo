@@ -1,6 +1,6 @@
-# Flask Template
+# Flask Demo
 Basic structure for starting a Flask project with Jinja templates
-
+This respository was created for an assignment at The University of Iowa.
 ---
 1. Clone this repository to local computer
 
